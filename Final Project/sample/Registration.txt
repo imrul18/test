@@ -1,0 +1,4 @@
+{"firstname":"Imrul","lastname":"Afnan","gender":"male","email":"imrul.afnan18@gmail.com","image":"a2.JPG","req_ques":"Best Friend?","req_ans":"Baba"}
+{"firstname":"Sayma","lastname":"Khanam","gender":"female","email":"sayma@gmail.com","image":"a2.JPG","req_ques":"Best frnd","req_ans":"Afnan"}
+{"firstname":"Zahid","lastname":"Hasan","gender":"male","email":"zahid@gmail.com","image":"a1.JPG","req_ques":"Nickname?","req_ans":"zazu"}
+{"firstname":"Imrul","lastname":"Afnan","gender":"male","email":"imrul.afnan@gmail.com","image":"asv.JPG","req_ques":"Nickname?","req_ans":"Af"}
